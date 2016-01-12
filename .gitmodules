@@ -1,0 +1,3 @@
+[submodule "image_analysis"]
+	path = image_analysis
+	url = https://github.com/dilawar/image_analysis
